@@ -6,5 +6,5 @@
 
 <div style="display: flex; align-items: center;">
   <h3 style="margin-right: 20px; font-weight: bold; font-size: 20px; color: #333;">👩‍💻 Linguagens usadas:</h3>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EveMachado&layout=pie&theme=radical" alt="Linguagens usadas" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EveAlamin&layout=pie&theme=radical" alt="Linguagens usadas" />
 </div>
