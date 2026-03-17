@@ -16,13 +16,12 @@
 
 ---
 
-### Sobre mim
+## <sub>Sobre mim</sub>
 
-Estudante de Sistemas de Informação na UFU e apaixonada por computação quântica e ciência de dados. Pesquisando computação quântica com foco em QRNGs fotônicos, criptografia pós-quântica e quantum machine learning. 
----
+Estudante de Sistemas de Informação na UFU. Apaixonada por computação quântica e ciência de dados, duas áreas que, no fundo, são sobre a mesma coisa: encontrar padrões onde outros veem caos.
 
 
-### ferramentas e tecnologias
+### Ferramentas e tecnologias
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
