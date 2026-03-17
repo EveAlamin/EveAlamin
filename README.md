@@ -18,7 +18,7 @@
 
 ## <sub>Sobre mim</sub>
 
-Estudante de Sistemas de Informação na UFU. Apaixonada por computação quântica e ciência de dados, duas áreas que, no fundo, são sobre a mesma coisa: encontrar padrões onde outros veem caos.
+Estudante de Sistemas de Informação na UFU e apaixonada por computação quântica e ciência de dados.Pesquisando computação quântica com foco em QRNGs fotônicos, criptografia pós-quântica e quantum machine learning.
 
 
 ### Ferramentas e tecnologias
