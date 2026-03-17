@@ -16,23 +16,11 @@
 
 ---
 
-### sobre mim
+### Sobre mim
 
-Sou estudante de Sistemas de Informação na UFU e pesquisadora em computação quântica.
-Tudo começou com uma notícia sobre aleatoriedade quântica verdadeira — e desde então não parei mais.
-
-Sou movida por desafios e só me dedico ao que acredito que pode mudar o mundo.
-Estou na fase de descobrir quem quero ser, e me vejo nessa área.
-
+Estudante de Sistemas de Informação na UFU e apaixonada por computação quântica e ciência de dados. Pesquisando computação quântica com foco em QRNGs fotônicos, criptografia pós-quântica e quantum machine learning. 
 ---
 
-### o que estou construindo
-
-- 🔬 **IC em Computação Quântica** — QRNGs fotônicos e criptografia moderna (Strawberry Fields)
-- ⚡ **QML para detecção de anomalias em redes** — VQC com 8 qubits, 89,3% de acurácia (PennyLane + NSL-KDD)
-- 🌐 **Site institucional do GRUCON/UFU** — projeto de extensão universitária
-
----
 
 ### ferramentas e tecnologias
 
@@ -43,9 +31,3 @@ Estou na fase de descobrir quem quero ser, e me vejo nessa área.
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
 ![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=mysql&logoColor=white)
-
----
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EveAlamin&layout=pie&theme=radical" alt="Linguagens usadas"/>
-</p>
